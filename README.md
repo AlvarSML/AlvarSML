@@ -29,7 +29,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-* All the notebooks involved in the developmento of the web application.
+* All the notebooks involved in the development of the web application.
 * ML training and data visualization.
 
 ### Flask - Jinja Web app ([Link](https://github.com/AlvarSML/practica-dms-2022-2023))
@@ -42,18 +42,18 @@
 
 ### Flashee - Flashcard app ([Link](https://github.com/TheForgottened/flashee))
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-* Offline browser aplication that lets the user create decks of cards.
+* Offline browser application that lets the user create decks of cards.
 * Generates random quiz based on the desired topics.
 * Export and import of decks through JSON.
 * Angular used for the UI.
-* LocalDB is implemented for data persistance.
+* LocalDB is implemented for data persistence.
 * Developed as part of a team of international members.
 
-### Ambient Inteligence article
+### Ambient Intelligence article
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-* Study made on the clasification of transport methods through sensor data analysis.
-* Involves obtention, storage and visualization of spatial data.
+* Study made on the classification of transport methods through sensor data analysis.
+* Involves generation, storage, and visualization of spatial data.
 * A pipeline is created in order to train Machine Learning models.
